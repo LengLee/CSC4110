@@ -1,0 +1,11 @@
+1. The & means that it is a reference variable. Its calling the object by reference and placing it into the array. 
+2. You have to set the stats for each individual seperatly because some are offense and some are defense, using a loop wouldn't be able to set both at the same time. 
+3. #ifndef means if the class is not define already the #define ( define it now). #endif means its the end of the class. 
+4. Because its private, no where else in the code can it be accessed by any other class other than its own. I had to create two seperate strings for offense and defense. 
+5. They are protected because then they can still be inherited by the other two class, while still having limitations on what can be changed with them. 
+Unlike private, where its not inherited and can't be accessed by any other class. 
+6. Its the default value for minutes. 
+7. Const means that a function can not modify any values or parameters. Its whole function is to display the values and not modify them. 
+8. SetMethod because it is inheirted by both classes, and they don't need any modifications to setMethod class. 
+9. An abstract class is like a base class used for other classes to inherit from. The abstract class is the player class.
+10. One thing i remembered that i had forgotten is how inheritance works. 

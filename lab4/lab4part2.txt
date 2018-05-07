@@ -1,0 +1,5 @@
+From this lab, I learned that qt is very simple to use. It has alot of libraries already which makes your programming life very easy. QT provides very well documented documentations that explains each functions clearly. 
+
+To use the program , you first enter your first number. After inputting your first number, you can hit tab which will lead you to the second box. Input your number there and then hit tab again. Now you can hit the shortcuts for which ever operations you would like to use. Once you hit your operation you like, the answer should pop up in the answer box below. To clear , simply press CTRL_C at anytime. The whole program can be tabbed through and the use of the mouse is not requried. 
+
+The requirements are to accecpt binary inputs but my program does not accept binary inputs, it only accepts Decimal inputs and outputs your answer in binary.

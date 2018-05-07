@@ -1,0 +1,3 @@
+The problem with the program was it had a Linker Error 2001 (Unresolved External Symbol). 
+The function onNext was not defined in the DlgGuide.cpp file. It was closed off with comment brackets making it 
+invisible to the compiler and linker. After I deleted the comment / that had enclosed the function, everything worked. 
